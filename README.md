@@ -1,5 +1,3 @@
-# Neutrino_SBI
-
 # Simulation-Based Inference for Neutrino Interaction Model Tuning
 
 This repository contains the code used for the paper **“Simulation-Based Inference for Neutrino Interaction Model Parameter Tuning”**, submitted to the **NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS)**.
